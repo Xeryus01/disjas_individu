@@ -16,4 +16,4 @@ Ini merupakan source code dari tugas individu Mata Kuliah Statistik Distribusi d
   - gifski
   - shinybusy
 - Run program dengan cara klik "Run App" pada bagian atas
-- Untuk hasil yang sudah dideployy dapat dilihat di https://fadilm.shinyapps.io/impor/
+- Untuk hasil yang sudah dideploy dapat dilihat di https://fadilm.shinyapps.io/impor/
