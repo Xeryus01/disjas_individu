@@ -15,6 +15,10 @@ library(gifski)
 library(shinybusy)
 
 fluidPage(
+  div(titlePanel("Tugas Kelompok 10 - 4SI2"), style="text-align: center;"),
+  div(h4("Akhmad Fadil Mubarok (221810129) dan Muhammad Yasin Vidian (221810477)"), style="text-align: center;"),
+  hr(),
+  
   h1("Static Line Chart"),
   hr(),
   h3("Nilai Impor dalam juta USD"),
